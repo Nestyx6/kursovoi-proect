@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T08:45:03.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.17" etag="oGkDpE0y_fvCJMCiqxMH" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T08:45:19.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U3n2GhngkcH7A9Xw3T4U" version="22.1.17" type="github">
   <diagram name="Страница — 1" id="TvdLysqvmpfgSnqLY1Yj">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="930" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.134;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sE8Lhkoz-EGymJtJT-0C-1" target="sE8Lhkoz-EGymJtJT-0C-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Видение продукта по созданию приложения для прослушивание музыки и созданию своих плейлистов&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="890" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.157;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.171;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240.70000000000002" y="102.73999999999995" as="sourcePoint" />
+            <mxPoint x="239.99999999999997" y="509.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.157;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.171;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="100" as="sourcePoint" />
+            <mxPoint x="480" y="507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.157;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.171;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="751" y="103" as="sourcePoint" />
+            <mxPoint x="750" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-7" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Цели&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="sE8Lhkoz-EGymJtJT-0C-1" target="sE8Lhkoz-EGymJtJT-0C-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="310" as="sourcePoint" />
+            <mxPoint x="330" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-9" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;Потребности&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-10" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Продукт&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Наш продукт нацелен на создание своих плейлистов, поиска новых треков и исполнителей&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="170" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Наша целевая аудитория это подростки и люди старших покалений&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="320" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Клиент получит удобное приложение по поиску музыки и найдет новые песни для себя, это поможет создать пользователю свой плейлист под определенную цель&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Наш продукт должен быть прост и понятен всем пользователям. Если у пользователя появятся вопросы насчет продукта, то он может с легкостью обратиться в тех поддержку, где ему помогут решить проблему.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="295" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8Lhkoz-EGymJtJT-0C-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Конкретной бизнес-цели у нас нет. В будущем, если приложение будет развиваться и набирать обороты можно ввести систему подписок, с помощью который пользователи получат доступ к эксклюзивному контенту&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="210" width="185" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
